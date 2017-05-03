@@ -1,5 +1,5 @@
 ﻿{
     "connectionString": "mongodb://HarshGatchu:12345@ds129651.mlab.com:29651/mean-stack-registration-example",
-    "apiUrl": "http://localhost:3000/api",
+    "apiUrl": "http://localhost:8080/api",
     "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
 }
